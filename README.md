@@ -75,7 +75,7 @@ I'm currently seeking opportunities as a **Graduate Software Engineer** or **Jun
 
 ## 📱 PoseFit AI
 
-AI-powered mobile fitness application developed as my final-year Software Engineering project.
+AI-powered mobile fitness application developed as my final-year Software Engineering project, combining computer vision and machine learning to analyse users' exercise technique in real time.
 
 ### Technologies
 
@@ -86,14 +86,16 @@ AI-powered mobile fitness application developed as my final-year Software Engine
 - Python
 - SQL
 - Android Studio
+- Git
+- GitHub
 
 ### Highlights
 
-- Real-time pose estimation using AI
-- Exercise technique analysis
-- AI-powered movement recognition
-- Responsive cross-platform mobile application
-- Designed and developed following the full software development lifecycle
+- Real-time pose estimation powered by MediaPipe and TensorFlow Lite.
+- AI-assisted analysis of exercise technique with instant visual feedback.
+- Cross-platform mobile application built with Flutter for Android.
+- Responsive and intuitive user interface focused on user experience.
+- Created following Agile practices with iterative testing and user feedback.
 
 🔗 Repository:
 **https://github.com/ArtemShkurat/FYP-PoseFit_AI**
@@ -102,7 +104,7 @@ AI-powered mobile fitness application developed as my final-year Software Engine
 
 ## 🌐 Game Gurus
 
-A full-stack web platform developed as a university group project, enabling users to create accounts and share gaming tips and guides.
+A full-stack web application developed as a university group project, allowing users to create accounts and share gaming tips and guides.
 
 ### Technologies
 
@@ -113,41 +115,71 @@ A full-stack web platform developed as a university group project, enabling user
 - HTML
 - CSS
 - Docker
+- Git
+- GitHub
 
 ### Highlights
 
-- User authentication and account management
-- Database integration
-- Full-stack architecture
-- Responsive user interface
-- Collaborative software development using Git
+- Full-stack web application with user authentication and account management.
+- Relational database used to store users, posts and application data.
+- Responsive interface designed for desktop and mobile devices.
+- Collaborative development using Git and Agile methodologies.
+- Focus on clean architecture and maintainable code.
 
 🔗 Repository:
 **https://github.com/en-ea/GameGurus**
 
 ---
 
-## 📈 Software Architecture & Design Coursework
+## 🔒 KeyWise - Password Hygiene Coach
 
-A Java-based web application developed as part of a Software Architecture & Design module. The project demonstrates the complete software engineering process, from requirements analysis and UML modelling to the implementation of a stock price comparison web application.
+A cross-platform mobile application developed as part of the Secure Software Development module to help users improve password security through practical tools and cybersecurity education.
+
+### Technologies
+
+- Flutter
+- Dart
+- SQLite
+- Git
+- GitHub
+
+### Highlights
+
+- Password generator designed and implemented from concept to completion.
+- Password strength feedback to encourage secure password creation.
+- User interface refined through testing and iterative improvements.
+- Bug fixing, compatibility testing and application optimisation.
+- Contribution to project planning, documentation and ethical considerations.
+
+🔗 Repository:
+**https://github.com/KEYWISE-PHC/SSD**
+
+---
+
+## 📈 Stock Price Comparison
+
+A Java-based coursework project demonstrating software architecture, UML modelling and object-oriented software design through the development of a stock price comparison application.
 
 ### Technologies
 
 - Java
+- JavaFX
 - SQL
 - REST APIs
 - HTML
 - CSS
 - UML
 - Object-Oriented Design
+- Git
+- GitHub
 
 ### Highlights
 
-- Designed the system using UML diagrams and object-oriented design principles.
-- Developed a Java application to retrieve and compare real-time stock market data from external APIs.
-- Applied software architecture and design principles throughout the project.
-- Implemented database integration for data management.
-- Produced comprehensive technical documentation covering system design, implementation and testing.
+- Stock price comparison application built using Java and JavaFX.
+- Live financial market data retrieved through external REST APIs.
+- UML diagrams used to plan the system architecture and design.
+- Database integration for efficient storage and retrieval of information.
+- Comprehensive documentation covering design, implementation and testing.
 
 🔗 Repository:
 **https://github.com/ArtemShkurat/SA-D-Coursework**
