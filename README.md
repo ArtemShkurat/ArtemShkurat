@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Artem Shkurat 👋</h1>
 
 <h3 align="center">
-Graduate Software Engineer | First Class BSc (Hons) Software Engineering
+Graduate Software Engineer | First Class BEng (Hons) Software Engineering
 </h3>
 
 <p align="center">
