@@ -190,7 +190,7 @@ A Java-based coursework project demonstrating software architecture, UML modelli
 
 **University of Roehampton**
 
-**BSc (Hons) Software Engineering**
+**BEng (Hons) Software Engineering**
 
 🏆 First Class Honours (72%)
 
